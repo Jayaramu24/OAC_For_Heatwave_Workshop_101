@@ -1,4 +1,4 @@
-Drag and drop following tables:customers, lineitem, nation, orders, part, partsupp, supplier
+Drag and drop following tables:customers, lineitem, nation, orders, part, partsupp, supplier
 
 ![image](https://user-images.githubusercontent.com/90479726/133122834-e5dd2172-ac95-4b0d-bb6c-9de1c8cd74fc.png)
 
@@ -14,11 +14,19 @@ If any key that needs to be joined is saved as a numerical value, the system wil
 
 ![image](https://user-images.githubusercontent.com/90479726/133123345-310e93a5-71d4-4bb8-ba43-bb1a9177edc4.png)
 
-Kindly follow the below join conditions:lineitem -> orders -> customer -> nationpartsupp -> lineitem (PartKey+SupplierKey)partsupp-> partpartsupp-> supplierNote: All joins to be inner joins
+Kindly follow the below join conditions:
+- lineitem -> orders -> customer -> nation
+- partsupp -> lineitem (PartKey+SupplierKey)
+- partsupp-> part
+- partsupp-> supplier
+
+Note: All joins to be inner joins
 
 ![image](https://user-images.githubusercontent.com/90479726/133123488-426de32b-ccc4-4d5f-ba52-61d81b514a00.png)
 
-After the completion of joins, select lineitem table in the bottom to observe interactive visual data preparation screen.L_RETURNFLAG has values = N, R, A. To make them more understandable, double click on each one of them and update them to NA, Returned, Accepted respectively.Similarly updates values in L_LINESTATUS to Fulfilled and Ordered respectively.
+After the completion of joins, select lineitem table in the bottom to observe interactive visual data preparation screen.
+- L_RETURNFLAG has values = N, R, A. To make them more understandable, double click on each one of them and update them to 'NA', 'Returned', 'Accepted' respectively.
+- Similarly updates values in L_LINESTATUS to 'Fulfilled' and 'Ordered' respectively.
 
 ![image](https://user-images.githubusercontent.com/90479726/133123652-3160c015-a848-4c23-b94c-008c23454a91.png)
 
