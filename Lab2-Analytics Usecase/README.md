@@ -1,10 +1,11 @@
 Analytics Project Use-case. You are a Business Analyst who needs to prepare the following Dashboard!
 
 Order Summary needs to be prepared for 1995 with: 
+
 **Following key Metrics:** 
 Total Sales, Total Orders, Total Quantity Ordered, Items Returned, Unique Customers
-**
-Following Charts / Visuals:**
+
+**Following Charts / Visuals:**
 Monthly Sales Trend & Forecast for next 3 months
 Monthly Orders Trend & Forecast for next 3 months
 Country-wise Break-up of Sales & Customers
