@@ -14,3 +14,4 @@ Wait till the status turns ‘ACTIVE’ . After it is active, Copy the URL under
 
 ![image](https://user-images.githubusercontent.com/90479726/133121703-8388c43b-3bc0-4487-8f0d-7eb1d3bc8386.png)
 
+Congratulations! You now have successfully created an OAC instance on OCI
