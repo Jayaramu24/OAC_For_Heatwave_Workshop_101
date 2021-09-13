@@ -35,5 +35,5 @@ Total Sales, Total Orders, Total Quantity Ordered, Items Returned, Unique Custom
 **Drill-down View:**
 
 Drill-down into Top 10 Selling Products to view;
-Rest of the Product Details like; Type, Manufacturer, Brand, Shipping Container etc.
-Product Supplier Details like; Supplier names, Available quantities with them, their cost and Supplier financial health if you need to procure additional products from them.
+- Rest of the Product Details like; Type, Manufacturer, Brand, Shipping Container etc.
+- Product-Supplier Details like; Supplier names, Available quantities with them, their cost and Supplier financial health if you need to procure additional products from them.
