@@ -88,7 +88,9 @@ Another very interesting feature which greatly enhances the dashboard interactiv
 
 ![image](https://user-images.githubusercontent.com/90479726/133129174-6f8797af-1656-46eb-b8f4-5ed27cca4c09.png)
 
-In the below screenshot, India is selected as the filter by clicking on it on the map chart. As you will observer all the visuals are showing the respective information for India now.Another point: If you have noticed the bottom left corner in the previous screenshots, the individual dashboard known as ‘Canvas’ in OAC has a meaningful name to it. This is done by Double Clicking on the canvas name, typing a meaningful title and saving by clicking the ‘Tick’ icon as shown.
+In the below screenshot, India is selected as the filter by clicking on it on the map chart. As you will observer all the visuals are showing the respective information for India now.
+
+Another point: If you have noticed the bottom left corner in the previous screenshots, the individual dashboard known as ‘Canvas’ in OAC has a meaningful name to it. This is done by Double Clicking on the canvas name, typing a meaningful title and saving by clicking the ‘Tick’ icon as shown.
 
 ![image](https://user-images.githubusercontent.com/90479726/133129332-28bd31ca-c084-4a67-815e-dee186c0cfb5.png)
 
@@ -139,3 +141,4 @@ You will observe that the metrics ‘Total Quantity Ordered’ and ‘Items Retu
 
 - Hint for ‘Items Returned’: During data preparation, we have updated return status to ‘Returned’. This needs to be used as a filter on an appropriate metric to arrive at this metric. ‘Total Quantity Ordered’ is pretty straight forward.
 
+This brings us to the end of this lab. Let us visit the next section for Key takeaways and Path ahead.
