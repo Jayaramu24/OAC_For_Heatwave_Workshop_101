@@ -1,4 +1,4 @@
-T**Oracle Analytics Cloud** is a cloud-native service that provides the capabilities required to address the entire analytics process from data ingestion and modeling, through data preparation and enrichment, to visualization and collaboration without compromising security and governance. Embedded machine learning and natural language processing technologies help increase productivity and build an analytics-driven culture in organizations.
+**Oracle Analytics Cloud** is a cloud-native service that provides the capabilities required to address the entire analytics process from data ingestion and modeling, through data preparation and enrichment, to visualization and collaboration without compromising security and governance. Embedded machine learning and natural language processing technologies help increase productivity and build an analytics-driven culture in organizations.
 
 **Following is the Process of converting raw data to Insights:**
 
