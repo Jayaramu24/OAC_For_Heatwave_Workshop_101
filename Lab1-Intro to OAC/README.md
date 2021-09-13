@@ -26,11 +26,11 @@ Total Sales, Total Orders, Total Quantity Ordered, Items Returned, Unique Custom
 
 **Following Charts / Visuals:**
 
-Monthly Sales Trend & Forecast for next 3 months
-Monthly Orders Trend & Forecast for next 3 months
-Country-wise Break-up of Sales & Customers
-Country-wise Break-up of Orders
-Top 10 Selling Products
+- Monthly Sales Trend & Forecast for next 3 months
+- Monthly Orders Trend & Forecast for next 3 months
+- Country-wise Break-up of Sales & Customers
+- Country-wise Break-up of Orders
+- Top 10 Selling Products
 
 **Drill-down View:**
 
