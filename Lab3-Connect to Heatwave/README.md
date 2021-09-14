@@ -26,4 +26,4 @@ Ensure all the 8 tables within the TPCH database/schema are visible after you ha
 
 ![image](https://user-images.githubusercontent.com/90479726/133300617-813f6ca6-62cf-43ac-94da-f664eb5c5817.png)
 
-Congratulations. Let us now move to the next lab: 
+Congratulations. Let us now start exploring and preparing the data for analysis using: **[Lab4-Prepare Data](/Lab4-Prepare%20Data/README.md)**
