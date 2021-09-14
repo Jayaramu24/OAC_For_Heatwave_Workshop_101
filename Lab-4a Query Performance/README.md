@@ -8,24 +8,24 @@ Once you are in the SQL Entry screen after Double Clicking the 'Manual Query', t
 Query1 -> Find the revenue by Ship Mode and list them in descending order:
 
 select /*+ SET_VAR(use_secondary_engine=off) */   
-count(*) as No_of_Records
+count(*) as No_of_Records  
 From tpch.lineitem
 
 
 Query2 -> A Pricing Summary Report:
 
-Select /*+ SET_VAR(use_secondary_engine=off) */ 
-l_returnflag, l_linestatus, sum(l_quantity) as sum_qty,
-sum(l_extendedprice) as sum_base_price,
-sum(l_extendedprice*(1-l_discount)) as sum_disc_price,
-sum(l_extendedprice*(1-l_discount)*(1+l_tax)) as sum_charge,
-avg(l_quantity) as avg_qty,
-avg(l_extendedprice) as avg_price,
-avg(l_discount) as avg_disc,
-count(*) as count_order
-From tpch.lineitem
-Where l_shipdate <= date '1998-12-01‘
-group by l_returnflag, l_linestatus
+Select /*+ SET_VAR(use_secondary_engine=off) */  
+l_returnflag, l_linestatus, sum(l_quantity) as sum_qty,  
+sum(l_extendedprice) as sum_base_price,  
+sum(l_extendedprice*(1-l_discount)) as sum_disc_price,  
+sum(l_extendedprice*(1-l_discount)*(1+l_tax)) as sum_charge,  
+avg(l_quantity) as avg_qty,  
+avg(l_extendedprice) as avg_price,  
+avg(l_discount) as avg_disc,  
+count(*) as count_order  
+From tpch.lineitem  
+Where l_shipdate <= date '1998-12-01‘  
+group by l_returnflag, l_linestatus  
 order by l_returnflag, l_linestatus
 
 Similarly you could try multiple queries including joining multiple tables and check the performance with and without Heatwave engine on.
