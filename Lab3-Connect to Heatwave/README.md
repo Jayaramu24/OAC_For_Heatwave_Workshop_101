@@ -1,4 +1,4 @@
-Once your are logged in, before we setup the connection to Heatwave, let us just apply the ‘Redwood’ them to the User Interface. Once you have logged in, click on the ‘Navigator’ on the top left corner and click on ‘Console’.
+Once your are logged in, before we setup the connection to Heatwave, let us just apply the ‘Redwood’ theme to the User Interface. Once you have logged in, click on the ‘Navigator’ on the top left corner and click on ‘Console’.
 
 ![image](https://user-images.githubusercontent.com/90479726/133317371-5b88eb25-a61a-4a22-8df7-c4902ddd728e.png)
 
