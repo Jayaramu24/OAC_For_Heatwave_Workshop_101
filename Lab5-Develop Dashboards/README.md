@@ -141,4 +141,4 @@ You will observe that the metrics ‘Total Quantity Ordered’ and ‘Items Retu
 
 - Hint for ‘Items Returned’: During data preparation, we have updated return status to ‘Returned’. This needs to be used as a filter on an appropriate metric to arrive at this metric. ‘Total Quantity Ordered’ is pretty straight forward.
 
-This brings us to the end of this lab. Let us visit the next section for Key takeaways and Path ahead.
+This brings us to the end of this lab. Let us visit the next section: **[Lab5-Takeaways & Next Steps](/Takeaways%20%26%20Next%20Steps/README.md)**
