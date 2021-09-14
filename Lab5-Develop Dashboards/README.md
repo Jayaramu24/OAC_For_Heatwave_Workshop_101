@@ -8,11 +8,7 @@ Once we are on the ‘Visualize’ screen, let us first create a calculated meas
 
 ![image](https://user-images.githubusercontent.com/90479726/133126238-8605eeba-d397-4095-b058-596c97079ce3.png)
 
-Once we are on the ‘Visualize’ screen, let us first create a calculated measure required for our dashboard. Right Click on ‘My Calculations’ and click on ‘Add Calculation’.
-
-![image](https://user-images.githubusercontent.com/90479726/133126334-e4828bee-1b81-42a5-ab7a-2fda42254c46.png)
-
-Name the measure as Total Order and create the calculation as shown below. It is a simple count of Order key from orders table. Once the formula is typed, click on ‘Validate’ to ensure there are no syntax errors and save.
+Name the measure as **Total Orders** and create the calculation as **count(O_ORDERKEY)**. It is a simple count of Order key from orders table. Once the formula is typed, click on ‘Validate’ to ensure there are no syntax errors and save.
 
 ![image](https://user-images.githubusercontent.com/90479726/133126838-7ba57ea0-48fb-48e2-a6b4-3ed9a5e48dc6.png)
 
@@ -28,7 +24,8 @@ It is very easy to create additional tiles. Click anywhere within the current ti
 
 ![image](https://user-images.githubusercontent.com/90479726/133127213-7e2198bb-fdc8-4d57-9028-b2dfe66b856c.png)
 
-Now let us create another calculated measure as before. This time, we will create the distinct count of customers from the orders table. The formula and syntax is as shown.
+Now let us create another calculated measure as **Unique Customers**. This time, we will create the distinct count of customers from the orders table.  
+The formula is: **count(distinct O.CUSTKEY)**.
 
 ![image](https://user-images.githubusercontent.com/90479726/133127297-df273bef-91e8-497c-904c-6a866fce188a.png)
 
