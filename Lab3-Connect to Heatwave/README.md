@@ -1,4 +1,17 @@
-Once you are logged in, click on create 'Project'.
+Once your are logged in, before we setup the connection to Heatwave, let us just apply the ‘Redwood’ them to the User Interface. Once you have logged in, click on the ‘Navigator’ on the top left corner and click on ‘Console’.
+
+![image](https://user-images.githubusercontent.com/90479726/133317371-5b88eb25-a61a-4a22-8df7-c4902ddd728e.png)
+
+Then click on ‘System Settings’. On clicking, a new browser tab for ‘System Settings’ would open.
+
+![image](https://user-images.githubusercontent.com/90479726/133317472-a41bf883-9580-4f62-909e-a7201c7d0ea2.png)
+
+Scroll down to ‘Preview’ section and toggle the switch to ‘on’ for ‘Preview Redwood Theme’. Then just refresh the browser for both the ‘System Settings’ tab that you are in and also the main tab from where the ‘System Settings’ tab opened. This ensures that the ‘Redwood’ theme is successfully applied.
+
+![image](https://user-images.githubusercontent.com/90479726/133317636-43812dcb-5700-423f-a717-696965a8a299.png)
+
+
+Once you are back on the Home Page of OAC, click on 'Create'- > 'Project'.
 
 ![image](https://user-images.githubusercontent.com/90479726/133122298-be811281-57fd-4dd9-a642-1609a8bdcfb7.png)
 
