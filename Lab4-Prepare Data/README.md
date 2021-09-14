@@ -70,4 +70,4 @@ On clicking the ‘Create Project’ button, if the system asks you to save any 
 
 ![image](https://user-images.githubusercontent.com/90479726/133124802-c9e94d1f-e8ae-4385-b534-a4d7b23796b8.png)
 
-Congratulations! The data is now ready for dashboards and analyses.
+Congratulations! The data is now ready for dashboards and analyses. Let us start creating the dashboards using: **[Lab5-Develop Dashboards](/Lab5-Develop%20Dashboards/README.md)**
