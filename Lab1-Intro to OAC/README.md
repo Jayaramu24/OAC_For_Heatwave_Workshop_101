@@ -38,4 +38,4 @@ Drill-down into Top 10 Selling Products to view;
 - Rest of the Product Details like; Type, Manufacturer, Brand, Shipping Container etc.
 - Product-Supplier Details like; Supplier names, Available quantities with them, their cost and Supplier financial health if you need to procure additional products from them.
 
-Let us first setup our OAC instance using **[Click here for Lab2-Setup OAC on OCI](/Lab2-Setup%20OAC%20on%20OCI/README.md)**
+Let us first setup our OAC instance using: **[Lab2-Setup OAC on OCI](/Lab2-Setup%20OAC%20on%20OCI/README.md)**
